@@ -12,7 +12,7 @@ const Hero = () => {
         
         <div>
           <h1 className={`${styles.heroHeadText} text-white heroNames`}>
-            You made it :) <br/>I'm Kyle.
+            You made it, <br/>I'm Kyle.
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100 heroNames`}>
             Software engineer with a background in Sociology and Statistics. <br/> I design and build applications, <br/>

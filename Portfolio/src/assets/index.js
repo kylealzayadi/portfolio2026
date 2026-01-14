@@ -32,8 +32,8 @@ import tensorflow from "./tech/tensorflow.svg";
 
 import uvic from "./company/uvic.png"
 import selfemployed from "./company/selfemployed.png";
-import sd42 from "./company/sd42.png"
-import ucla from "./company/uclapic.png"
+import sd42 from "./company/sd42.png";
+import uclapic from "./company/uclapic.png";
 import starangels from "./starangels.png";
 import prototype from "./prototype.png";
 import vrviewpointprediction from "./vrviewpointprediction.png";

@@ -116,7 +116,7 @@ const experiences = [
   {
     title: "Sole Developer, Genevieve's Garden",
     company_name: "University Of California, Los Angeles",
-    icon: uclapic,
+    icon: uvic,
     iconBg: "#383E56",
     date: "Jan 2024 - March 2024",
     points: [
@@ -129,7 +129,7 @@ const experiences = [
   {
     title: "Sole Developer, Dieven App",
     company_name: "University Of California, Los Angeles",
-    icon: uclapic,
+    icon: uvic,
     iconBg: "#383E56",
     date: "May 2023 - Dec 2023",
     points: [
