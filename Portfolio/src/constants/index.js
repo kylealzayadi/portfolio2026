@@ -90,8 +90,8 @@ const experiences = [
   {
     title: "Data Analyst Intern ",
     company_name: "UCLA California Nanosystems Institute",
-    icon: selfemployed,
-    iconBg: "#383E56",
+    icon: python,
+    iconBg: "#20232A",
     date: "Aug 2024 - Jan 2025",
     points: [
       "Reviewing and organizing research data from lab experiments and imaging studies",
@@ -104,8 +104,8 @@ const experiences = [
   {
     title: "Financial Analyst Intern ",
     company_name: "Raphael Stone & Co.",
-    icon: selfemployed,
-    iconBg: "#383E56",
+    icon: mysql,
+    iconBg: "#20232A",
     date: "Dec 2023 - March 2024",
     points: [
       "Reviewing sales, expense, and transaction data to find trends and patterns",
@@ -116,8 +116,8 @@ const experiences = [
   {
     title: "Sole Developer, Genevieve's Garden",
     company_name: "University Of California, Los Angeles",
-    icon: uvic,
-    iconBg: "#383E56",
+    icon: reactjs,
+    iconBg: "#20232A",
     date: "Jan 2024 - March 2024",
     points: [
       "Designing and deploying the full website as the sole front-end and back-end developer",
@@ -129,8 +129,8 @@ const experiences = [
   {
     title: "Sole Developer, Dieven App",
     company_name: "University Of California, Los Angeles",
-    icon: uvic,
-    iconBg: "#383E56",
+    icon: react,
+    iconBg: "#20232A",
     date: "May 2023 - Dec 2023",
     points: [
       "Creating wireframes and prototypes to plan features, user flow, and overall app structure",
